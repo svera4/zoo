@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    margin:0;
+}
+
+header {
+    background:#115813;
+    color:white;
+    text-align:center;
+    width:100%;
+    padding-top:70px;
+    padding-bottom:70px;
+    font-size:150%;
+}
+main p {
+    padding:5%;
+}
+
+main img {
+    width:30%;
+    padding-left:23px;  
+}
+
+footer p {
+    color:#3620F8;
+    text-align:center;
+}
